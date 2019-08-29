@@ -15,4 +15,4 @@
     ENTONCES debe figurar tanto el género como el nombre autopercibido
 
 
-[Volver](workshop.md)
+[Volver](/workshop.md)

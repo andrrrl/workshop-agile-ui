@@ -18,4 +18,4 @@ User Story #1 (Administrativo):
     ENTONCES poder validarlo dentro del sistema escaneando su DNI
     PUNTAJE: 10
 
-[Volver](workshop.md)
+[Volver](/workshop.md)

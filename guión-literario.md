@@ -1,11 +1,11 @@
-# "METODOLOGÍAS ÁGILES EN EL DISEÑO DE INTERFACES"
+# "METODOLOGÍAS ÁGILES EN EL DISEÑO DE INTERFACES" ~ Workshop
 
 ## Guión Literario 
 
 En el Hospital "Las Yungas" de complejidad 9, se formó un grupo interdisciplinario de personal de salud y representantes de los intereses de los pacientes (**Product Owner**) para buscar soluciones a problemáticas relacionadas a la atención primaria en la institución. Para este fin se convocó al sector de Tecnologías de la Información del hospital (**Equipo de desarrollo**).
 
 ### Se determinó que tienen prioridad las siguientes problemáticas:
-1. El horario para dar turnos es de 9 a 13 horas, en promedio concurren 50 pacientes, de los cuales se asignan turnos a 40, quedando alrededor de 10 pacientes sin turno.
+1. El horario para dar turnos es de 9 a 13 horas, concurren casi 50 pacientes por día, a los cuales se asignan turnos en orden de llagada, quedando alrededor de 10 pacientes sin turno por día (promedio 40 pacientes atendidos).
 2. Aunque se dispone de computadoras y un sistema avanzado para planificación de Agendas de turnos, actualmente la institución carece de un sistema informático para resguardar historias clínicas, y las mimsmas se registran y almacenan en papel.
 
 ### Se hizo un análisis de la problemática, y se realizó el siguiente relevamiento:
@@ -14,4 +14,4 @@ En el Hospital "Las Yungas" de complejidad 9, se formó un grupo interdisciplina
 
 ### De este relevamiento se realizaron las siguientes acciones:
 1. El hospital dispuso la compra de escáneres de los códigos presentes en los DNI tarjeta (símil código QR) y quedaron instalados tanto en las ventanillas de pacientes como en los consultorios de los profesionales médicos.
-2. Se requerió al equipo de Tecnologías de la Información, el desarrollo de un módulo para validación de pacientes, con el fin de registrarlos en el sistema y así poder vincularlos con los turnos y la historia clínica digital.
+2. Se requirió al equipo de Tecnologías de la Información, el desarrollo de un módulo para validación de pacientes, con el fin de registrarlos en el sistema y así poder vincularlos con los turnos y la historia clínica digital. Para esto se decidió aplicar SCRUM, como metodología ágil de trabajo.

@@ -1,5 +1,5 @@
 # Workshop UI/UX CAIS ==> "METODOLOGÍAS ÁGILES EN EL DISEÑO DE INTERFACES"
-La actividad tiene un enfoque específico enmarcado por lo que es el diseño de las interfaces y la experiencia de usuario en el marco de un ciclo de metodología agile.
+La actividad tiene un enfoque específico enmarcado por lo que es el diseño de las interfaces y la experiencia de usuario en el marco de un ciclo de las metodologías agile (SCRUM).
 
 ## Elementos de UI kit (visible para todos):
 - Botón "Aceptar" x 10

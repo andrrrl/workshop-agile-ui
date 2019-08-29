@@ -3,6 +3,7 @@
 ## Guión Literario 
 
 En el Hospital "Las Yungas" de complejidad 9, se formó un grupo interdisciplinario de personal de salud y representantes de los intereses de los pacientes (**Product Owner**) para buscar soluciones a problemáticas relacionadas a la atención primaria en la institución. Para este fin se convocó al sector de Tecnologías de la Información del hospital (**Equipo de desarrollo**).
+La institución dispone de un sistema informático de salud propio, con licencia de software libre, con varios módulos en producción. El mismo es desarrollado y mantenido por el **Equipo de desarrollo**, el cual se ocupa de incorporar mejoras, corregir errores (bugs) y llevar adelante el mantenimiento de la infraestructura de servidores, entre otras tareas. Dentro de este Equipo hay recursos dedicados exclusivamente al diseño y la implementación de interfaces gráficas (UI) y la mejora de la experiencia del usuario (UX).
 
 ### Se determinó que tienen prioridad las siguientes problemáticas:
 1. El horario para dar turnos es de 9 a 13 horas, concurren casi 50 pacientes por día, a los cuales se asignan turnos en orden de llagada, quedando alrededor de 10 pacientes sin turno por día (promedio 40 pacientes atendidos).

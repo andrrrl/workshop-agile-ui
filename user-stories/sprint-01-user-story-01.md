@@ -22,3 +22,5 @@ User Story #1 (Administrativo):
     CUANDO un paciente concurre con su DNI
     ENTONCES poder validarlo dentro del sistema escaneando su DNI
     PUNTAJE: 5
+
+[Volver](../)

@@ -13,3 +13,6 @@
     DADA la pantalla del "Prestación"
     CUANDO cuando se visualizan los detalles del paciente
     ENTONCES debe figurar tanto el género como el nombre autopercibido
+
+
+[Volver](../)

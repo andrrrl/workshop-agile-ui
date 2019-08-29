@@ -17,3 +17,5 @@
     CUANDO un paciente concurre a la ventanilla
     ENTONCES debe haber un campo de texto opcional para ingresar el nombre autopercibido del paciente.
     PUNTAJE: 10
+
+[Volver](../)

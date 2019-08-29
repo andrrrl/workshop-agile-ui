@@ -15,3 +15,5 @@ User Story #2 (Profesional):
     DADA la pantalla del "Prestación"
     CUANDO cuando se guarda el diagnóstico de un paciente
     ENTONCES si hay más de un diagnóstico, se debe poder indicar cuál es el diagnóstico principal
+
+[Volver](../)

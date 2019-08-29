@@ -44,33 +44,8 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
 
     **Objetivo grupo A**: 
 
-    Agilizar la validación de pacientes para que no queden pacientes sin atención
-
-    User Story #1 (Administrativo):
-
-        PUNTAJE MÁXIMO: 15
-        
-        COMO administrativo
-        QUIERO validar pacientes usando un escáner de DNI
-        PARA optimizar el tiempo de carga y asignación de turnos
-        
-        CRITERIOS DE ACEPTACIÓN (tarjeta de puntajes)
-
-        DADA la pantalla "Datos del Paciente" 
-        CUANDO un paciente concurre por primera vez
-        ENTONCES tener un escanear de DNI
-        PUNTAJE: 5
-
-        DADA la pantalla "Datos del Paciente" 
-        CUANDO se escanea un DNI
-        ENTONCES los datos del paciente se autocompletan
-        PUNTAJE: 5
-
-        DADA la pantalla del "Agendas y Turnos"
-        CUANDO un paciente concurre con su DNI
-        ENTONCES poder validarlo dentro del sistema escaneando su DNI
-        PUNTAJE: 5
-        ______________________________________________________________________________________________________________________________
+    - Agilizar la validación de pacientes para que no queden pacientes sin atención
+    - [Sprint 1, User Story  1](user-stories/sprint-01-user-story-01.md)
 
     
     **Problemática B**: 
@@ -82,25 +57,9 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
 
     **Objetivo grupo B**: 
 
-    Registrar un diagnóstico para que esté disponible en la Historia Clínica digital del paciente
-
-    User Story #2 (Profesional):
-
-        PUNTAJE MÁXIMO: 15
-        
-        COMO profesional de salud
-        QUIERO registrar el diagnóstico de un paciente
-        PARA tener esos datos disponibles en la Historia Clínica digital
-        
-        CRITERIOS DE ACEPTACIÓN
-
-        DADA la pantalla "Prestación" 
-        CUANDO se necesita diagnosticar a un paciente
-        ENTONCES debe haber un campo de texto sobre el cual escribir el diagnóstico
-
-        DADA la pantalla del "Prestación"
-        CUANDO cuando se guarda el diagnóstico de un paciente
-        ENTONCES si hay más de un diagnóstico, se debe poder indicar cuál es el diagnóstico principal
+    - Registrar un diagnóstico para que esté disponible en la Historia Clínica digital del paciente
+    - [Sprint 1, User Story 2](./user-stories/sprint-01-user-story-02.md)
+    
         
 
     1. Armar una interfaz gráfica (UI) con elementos del UI kit. 
@@ -132,41 +91,13 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
 
     - Soluciones particulares, User Stories:
 
-    User Story #1 (Administrativo):
+    **Objetivo grupo A**: 
 
-        PUNTAJE MÁXIMO: 20
-        
-        COMO administrativo
-        QUIERO registrar el género autopercibido de un paciente
-        PARA que el paciente pueda ser llamado por su nombre correctamente en la sala de espera
-        
-        CRITERIOS DE ACEPTACIÓN (tarjeta de puntajes)
+    - [Sprint 2, User Story 1](./user-stories/sprint-02-user-story-01.md)
 
-        DADA la pantalla "Datos del Paciente" 
-        CUANDO un paciente concurre a la ventanilla
-        ENTONCES tener un campo opcional para ingresar el género autopercibido del paciente. Las opciones deben ser "Femenino", "Masculino", "Otro"
-        PUNTAJE: 10
+    **Objetivo grupo B**: 
 
-        DADA la pantalla "Datos del Paciente" 
-        CUANDO un paciente concurre a la ventanilla
-        ENTONCES debe haber un campo de texto opcional para ingresar el nombre autopercibido del paciente.
-        PUNTAJE: 10
-
-    User Story #2 (Profesional):
-        
-        COMO profesional de salud
-        QUIERO visualizar el género autopercibido el paciente
-        PARA que el paciente pueda ser llamado correctamente sin estigmatización
-        
-        CRITERIOS DE ACEPTACIÓN
-
-        DADA la pantalla "Punte de inicio de Prestaciones" 
-        CUANDO se muestre la lista de pacientes en la agenda del profesional
-        ENTONCES debe figurar el nombre autopercibido del paciente
-
-        DADA la pantalla del "Prestación"
-        CUANDO cuando se visualizan los detalles del paciente
-        ENTONCES debe figurar tanto el género como el nombre autopercibido
+    - [Sprint 2, User Story 2](./user-stories/sprint-02-user-story-01.md)
 
 - Al finalizar el sprint #2 se requiere entregar el producto final.
 - Se evalúa, desde una perspectiva agile (retrospectiva o "la retro"):

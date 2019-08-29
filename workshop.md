@@ -61,11 +61,10 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
     - [Sprint 1, User Story 2](./user-stories/sprint-01-user-story-02.md)
     
         
+    **Planificación de Tareas:**
+    1. Diseñar la interfaz gráfica  (UI) con elementos del UI kit. 
+    2.  
 
-    1. Armar una interfaz gráfica (UI) con elementos del UI kit. 
-    2. Los elementos a elegir están limitados por: 
-        - Sólo puede haber un máximo de 2 pantallas
-        - 
 
 - Al finalizar el sprint #1 se requiere entregar un prototipo.
 - Se evalúa la interfaz y la UX del prototipo
@@ -75,7 +74,6 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
         2. Los problemas que tuvieron
         3. Qué se va a hacer a continuación
 
-################################################################################################################################
 
 ## Inicio Sprint #2
 - Se entrega a los equipos la tarjeta "Requerimientos spint #2"

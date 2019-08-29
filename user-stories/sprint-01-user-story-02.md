@@ -16,4 +16,4 @@ User Story #2 (Profesional):
     CUANDO cuando se guarda el diagnóstico de un paciente
     ENTONCES si hay más de un diagnóstico, se debe poder indicar cuál es el diagnóstico principal
 
-[Volver](../)
+[Volver](workshop.md)

@@ -1,6 +1,6 @@
 User Story #1 (Administrativo):
 
-    PUNTAJE MÁXIMO: 15
+    PUNTAJE MÁXIMO: 25
     
     COMO administrativo
     QUIERO validar pacientes usando un escáner de DNI
@@ -9,18 +9,13 @@ User Story #1 (Administrativo):
     CRITERIOS DE ACEPTACIÓN (tarjeta de puntajes)
 
     DADA la pantalla "Datos del Paciente" 
-    CUANDO un paciente concurre por primera vez
-    ENTONCES tener un escanear de DNI
-    PUNTAJE: 5
-
-    DADA la pantalla "Datos del Paciente" 
     CUANDO se escanea un DNI
     ENTONCES los datos del paciente se autocompletan
-    PUNTAJE: 5
+    PUNTAJE: 15
 
     DADA la pantalla del "Agendas y Turnos"
     CUANDO un paciente concurre con su DNI
     ENTONCES poder validarlo dentro del sistema escaneando su DNI
-    PUNTAJE: 5
+    PUNTAJE: 10
 
-[Volver](../)
+[Volver](workshop.md)

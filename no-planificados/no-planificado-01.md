@@ -1,15 +1,17 @@
-COMO administrativo
-QUIERO registrar a un paciente recién nacido
-PARA que pueda ser registrado y atendido en la institución
+No planificado #1 (Administrativo):
 
-CRITERIOS DE ACEPTACIÓN UI/UX (tarjeta de puntajes)
+    COMO administrativo
+    QUIERO registrar a un paciente recién nacido
+    PARA que pueda ser registrado y atendido en la institución
 
-DADA la pantalla "Datos del Paciente" 
-CUANDO concurre un paciente recién nacido
-ENTONCES debe haber un formulario para llenar con datos del mismo (Apellido, Nombre, Sexo, Fecha de nacimiento) y los de un progenitor o tutor (Documento, Apellido, Nombre, Sexo, Fecha de nacimiento)
+    CRITERIOS DE ACEPTACIÓN UI/UX (tarjeta de puntajes)
 
-DADA la pantalla "Prestación" 
-CUANDO un paciente recién nacido
-ENTONCES debe poder visualizarse los datos básicos de la madre, el padre o el relativo: Apellido, Nombre, Documento
+    DADA la pantalla "Datos del Paciente" 
+    CUANDO concurre un paciente recién nacido
+    ENTONCES debe haber un formulario para llenar con datos del mismo (Apellido, Nombre, Sexo, Fecha de nacimiento) y los de un progenitor o tutor (Documento, Apellido, Nombre, Sexo, Fecha de nacimiento)
 
-PUNTAJE: 10
+    DADA la pantalla "Prestación" 
+    CUANDO un paciente recién nacido
+    ENTONCES debe poder visualizarse los datos básicos de la madre, el padre o el relativo: Apellido, Nombre, Documento
+
+    PUNTAJE: 10

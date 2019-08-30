@@ -31,7 +31,7 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
 
 ## Inicio Sprint #1
 - Se entrega a los equipos la tarjeta "Requerimientos spint #1"
-- Se explica los aspectos a mejorar, a manos del Product Owner (PO), que en este caso un representante de los intereses del Paciente. 
+- Se explica los aspectos a mejorar, a manos del Product Owner (PO), que en este caso un representante de los intereses del Paciente y de las mejoras de la institución.
 - Quien entiende y filtra los requerimientos al equipo de desarrollo es el Product Manager (PM), a través de tareas concretas a realizar.
 
     #### Consignas Tarjeta #1:
@@ -45,6 +45,7 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
     **Objetivo grupo A**: 
 
     - Agilizar la validación de pacientes para que no queden pacientes sin atención
+    - Para cada tarea o conjunto de tareas de UI/UX, antes de poner "manos a la obra" se requiere analizar, idear, planificar, y refinar las ideas. Para ello se provee de material didáctico (hojas y marcadores, post-its)
     - [Sprint 1, User Story  1](user-stories/sprint-01-user-story-01.md)
 
     
@@ -62,8 +63,8 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
     
         
     **Planificación de Tareas:**
-    1. Diseñar la interfaz gráfica  (UI) con elementos del UI kit. 
-    2.  
+    1. Diseñar una interfaz gráfica (UI) con elementos del UI kit. 
+    2. Idear un prototipo "interactivo navegable" que permita visualizar las acciones pedidas en las tareas (UX)
 
 
 - Al finalizar el sprint #1 se requiere entregar un prototipo.

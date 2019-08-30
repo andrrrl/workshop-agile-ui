@@ -8,11 +8,11 @@ User Story #2 (Profesional):
 
     CRITERIOS DE ACEPTACIÓN
 
-    DADA la pantalla "Prestación" 
+    DADA la pantalla "Registrar Prestación" 
     CUANDO se necesita diagnosticar a un paciente
     ENTONCES debe haber un campo de texto sobre el cual escribir el diagnóstico
 
-    DADA la pantalla del "Prestación"
+    DADA la pantalla del "Registrar Prestación"
     CUANDO cuando se guarda el diagnóstico de un paciente
     ENTONCES si hay más de un diagnóstico, se debe poder indicar cuál es el diagnóstico principal
 

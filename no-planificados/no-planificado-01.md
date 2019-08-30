@@ -8,10 +8,15 @@ No planificado #1 (Administrativo):
 
     DADA la pantalla "Datos del Paciente" 
     CUANDO concurre un paciente recién nacido
-    ENTONCES debe haber un formulario para llenar con datos del mismo (Apellido, Nombre, Sexo, Fecha de nacimiento) y los de un progenitor o tutor (Documento, Apellido, Nombre, Sexo, Fecha de nacimiento)
+    ENTONCES debe haber un formulario para llenar con datos del mismo: 
+    Apellido, Nombre, Sexo, Fecha de nacimiento 
+    y los de un progenitor o tutor:
+    Documento, Apellido, Nombre, Sexo, Fecha de nacimiento
 
     DADA la pantalla "Prestación" 
     CUANDO un paciente recién nacido
-    ENTONCES debe poder visualizarse los datos básicos de la madre, el padre o el relativo: Apellido, Nombre, Documento
+    ENTONCES debe poder visualizarse los datos básicos de la madre, 
+    el padre o el relativo: 
+    Apellido, Nombre, Documento
 
     PUNTAJE: 10

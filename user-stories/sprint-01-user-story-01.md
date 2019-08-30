@@ -1,6 +1,6 @@
 User Story #1 (Administrativo):
 
-    PUNTAJE MÁXIMO: 25
+    PUNTAJE MÁXIMO: 35
     
     COMO administrativo
     QUIERO validar pacientes usando un escáner de DNI
@@ -12,6 +12,11 @@ User Story #1 (Administrativo):
     CUANDO se escanea un DNI
     ENTONCES los datos del paciente se autocompletan
     PUNTAJE: 15
+
+    DADA la pantalla del "Agendas y Turnos"
+    CUANDO un paciente concurre con **sin su DNI**
+    ENTONCES poder validarlo dentro del sistema con un formulario
+    PUNTAJE: 10
 
     DADA la pantalla del "Agendas y Turnos"
     CUANDO un paciente concurre con su DNI

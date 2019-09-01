@@ -1,25 +1,6 @@
 # Workshop UI/UX CAIS ==> "METODOLOGÍAS ÁGILES EN EL DISEÑO DE INTERFACES"
 La actividad tiene un enfoque específico enmarcado por lo que es el diseño de las interfaces y la experiencia de usuario en el marco de un ciclo de las metodologías agile (SCRUM).
 
-## Elementos de UI kit (visible para todos):
-- Botón "Aceptar" x 10
-- Botón "Cancelar" x 10
-- Botón "Ver detalle" x 4
-- Buscador de paciente (campo de texto + lupita)
-- Panel de detalles de paciente (con foto)
-- Panel de detalles de paciente (sin foto)
-- Campo de texto para diagnóstico
-- Panel con datos de la sesión de usuario
-- Buscador de diagnósticos
-- Algo como molécula RUP? (registrar tensión arterial o campo libre?)
-- Datepicker?
-- Checkboxes
-- Modal alerta
-- Panel lateral
-- Pestañas
-- Números secuencia
-
-
 ## Contexto Agile:
 - Los impratidores (nosotros) 
 - Intro de SCRUM, agile, concepto de Cliente, PO, scrum master, equipo de desarrollo.
@@ -33,6 +14,9 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
 - Se entrega a los equipos la tarjeta "Requerimientos spint #1"
 - Se explica los aspectos a mejorar, a manos del Product Owner (PO), que en este caso un representante de los intereses del Paciente y de las mejoras de la institución.
 - Quien entiende y filtra los requerimientos al equipo de desarrollo es el Product Manager (PM), a través de tareas concretas a realizar.
+- Se propone una división en 2 partes:
+    1. Planificar y diagramar (bocetar) las partes, datos y las acciones necesarias dentro del módulo de la aplicación a desarrollar.
+    2. Desarrollar un prototipo con una herramienta proporcionada para tal fin.
 
     #### Consignas Tarjeta #1:
     
@@ -103,18 +87,4 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
     1. Lo que se hizo
     2. Los problemas que tuvieron
     3. Qué se va a hacer a continuación
-
-## Trampas lúdicas (tarjetas ocultas para todos):
-
-### 1. Buscador de paciente + scanner de DNI:
-    Si se plantea una UI con scanner de DNI pero sin buscador por DNI, la trampa es llevar un paciente que olvidó su DNI.
-    La trampa es
-
-### 2. Registros médicos con HC visible:
-    Si se registran datos médicos sin poder consultar la historia clínica del paciente, se hace notar que los profesionales en general prefieren poder consultar la historia clínica mientras registran daton. La trampa funciona si algún grupo usara tabs en lugar de paneles paralelos. 
-
-### 3. Género autopercibido:
-    
-
-### 4. 3 botones ==> 1 dropdown
 

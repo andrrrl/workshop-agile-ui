@@ -13,10 +13,4 @@ No planificado #1 (Administrativo):
     y los de un progenitor o tutor:
     Documento, Apellido, Nombre, Sexo, Fecha de nacimiento
 
-    DADA la pantalla "Prestación" 
-    CUANDO un paciente recién nacido
-    ENTONCES debe poder visualizarse los datos básicos de la madre, 
-    el padre o el relativo: 
-    Apellido, Nombre, Documento
-
     PUNTAJE: 10

@@ -5,7 +5,7 @@ La actividad tiene un enfoque específico enmarcado por lo que es el diseño de 
 - Los impratidores (nosotros) 
 - Intro de SCRUM, agile, concepto de Cliente, PO, scrum master, equipo de desarrollo.
 - Repaso por arriba de Sprint, daily, retro.
-- Proponer el rol de quien lleve adelante tareas de UI/UX dentro del equipo.
+- Cómo encajan las tareas de UI/UX dentro de SCRUM.
 
 ## Inicio de actividades
 - Se explica que esta actividad consta de 2 ciclos (o sprints)

@@ -52,7 +52,7 @@
 
 
 - Al finalizar el sprint #1 se requiere entregar un prototipo.
-- Se evalúa la interfaz y la calidad de la experiencia del usuario en el prototipo
+- Se evalúa la interfaz y la calidad de la experiencia del usuario en el prototipo (QA)
 - Cuando se inicie el siguiente sprint (Sprint #2):
     - Se evalúa, desde una perspectiva agile (retrospectiva o "la retro"):
         1. Lo que se hizo

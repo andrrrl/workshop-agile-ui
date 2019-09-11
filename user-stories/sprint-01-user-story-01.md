@@ -8,7 +8,7 @@ User Story #1 (Administrativo):
     
     CRITERIOS DE ACEPTACIÓN (tarjeta de puntajes)
 
-    DADA la pantalla "Datos del Paciente" 
+    DADA el formulario existente "Datos del Paciente" 
     CUANDO se escanea un DNI
     ENTONCES los datos del paciente se autocompletan
     PUNTAJE: 15

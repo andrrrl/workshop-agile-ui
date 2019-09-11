@@ -1,20 +1,34 @@
-# Workshop UI/UX CAIS ==> "METODOLOGÍAS ÁGILES EN EL DISEÑO DE INTERFACES"
-- La actividad tiene un enfoque específico enmarcado por lo que es el diseño de las interfaces y la experiencia de usuario en las metodologías agile (SCRUM).
-- Los impratidores (nosotros).
+# Workshop UI/UX CAIS ~ "METODOLOGÍAS ÁGILES EN EL DISEÑO DE INTERFACES"
 
-## Contexto Agile:
-- Intro de SCRUM, agile, concepto de Cliente, PO, scrum master, equipo de desarrollo.
-- Repaso por arriba de Sprint, daily, retro.
-- Cómo encajan las tareas de UI/UX dentro de SCRUM.
-- Se explica los aspectos a mejorar, a manos del Product Owner (PO), que en este caso un representante de los intereses del Paciente y de las mejoras de la institución.
-- Quien entiende y filtra los requerimientos al equipo de desarrollo es el Product Manager (PM), a través de tareas concretas a realizar.
+## Introducción:
+- **Presentación del Workshop**, quiénes somos, a quiénes está orientado.
+- **El enfoque** de la actividad está enmarcado por lo que es el diseño de las interfaces y la experiencia de usuario aplicando la metodología agile Scrum.
+- **Se indaga brevemente** sobre los asistentes del curso (quiénes aplican scrum, quiénes hacen intrafaces (front-end), quiénes hacen UX, quiénes son diseñadores) 
+- **Se explican algunos conceptos básicos** sobre: Scrum, concepto de Cliente, Product Owner, equipo de desarrollo, Sprint, Planning, Estimación, User Stories, Tareas, Backlog general y Backlog del Sprint (tablero), ceremonia Daily, Retro. 
+- [___] Slide que muestra la estructura de Scrum
+- **Qué es UI**: es el diseño de interfaces gráficas de usuario para darles vida con la programación
+- **Qué es UX**: es analizar, diseñar y mejorar la experiencia para el usuario dentro de esa UI
+- [___] Slide que muestra estos aspectos
 
-## Inicio de actividades
-- Se explica que esta actividad consta de 2 ciclos (o sprints)
-- Se asignan roles
-- Se presenta el Backlog (Guión literario)
+- **Se propone un marco teórico** para entender por qué hace falta dar un espacio especial a las tareas de UI/UX dentro de Scrum. 
+    - Relación con el resto del equipo de desarrollo y con el Product Owner. 
+    - User Stories, qué son, para qué sirven.
+- **Se define el rol del PO** en relación con el equipo UI/UX.
+- **Se teoriza** acerca del Dual-Track, teoría desarrollada por Jeff Patton que propone un desfasaje entre el sprint de UI/UX del sprint de Desarrollo, basado en el hecho que para comenzar el desarrollo de una aplicación o un módulo primero tiene que pre-existir una UI bien analizada, diseñada y prototipada.
+[___] Slide que muestra la estructura propuesta de Scrum + UI/UX.
 
-## Inicio Sprint #1
+## Inicio de actividades (reforazado con slides)
+### Estructura del Workshop
+- La actividad consta de 2 ciclos (o sprints) 
+- Cada Sprint se subdivide en 2 segmentos que confluyen en nodos
+[___] Slide que muestra la estructura, los segmentos, los nodos
+[___] Slide con línea de tiempo
+
+### Consigna global
+- Se presentan los requerimientos (Guión literario), se propone un Backlog (¿?)
+- Se explican los aspectos a mejorar, a manos del Product Owner, que en este caso es un representante de los intereses del Paciente y de las mejoras de la Institución.
+
+### Inicio Sprint #1
 - Se entrega a los equipos la tarjeta "Requerimientos spint #1"
 - Se propone una división en 2 partes:
     1. Planificar y diagramar (bocetar) las partes, datos y las acciones necesarias dentro del módulo de la aplicación a desarrollar.
